@@ -46,7 +46,7 @@ const HeroSection = () => {
       </Slider>
       <div className="absolute top-0 left-0 w-full h-full bg-black opacity-10" />
       <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center text-white z-10">
-      <h1 className="text-4xl font-bold">Chale, Welcome to GH 🇬🇭</h1>
+      <h1 className="text-4xl font-bold">Chale, Welcome to 🇬🇭</h1>
 
       </div>
     </div>
